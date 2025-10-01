@@ -6,6 +6,7 @@ The pipeline ingests raw taxi trip data, stores it in GCS, loads and transforms 
 ---
 
 ## 📂 Project Structure
+```
 nyc-yellow-taxi-trips-pipeline/
 │
 ├── dags/                           # Airflow DAGs
@@ -25,7 +26,7 @@ nyc-yellow-taxi-trips-pipeline/
 │
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # Project documentation
-
+```
 ---
 
 ## 🚀 Pipeline Architecture
